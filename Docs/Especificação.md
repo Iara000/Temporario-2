@@ -28,3 +28,5 @@
 |RNF-004| O sistema deve funcionar em todos os principais navegadores (Chrome, mozila e Edge) |  MÉDIA | 
 |RNF-005| O sistema deve ser responsivo para executar em dispositivos móveis | BAIXA |
 |RNF-006| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
+|RNF-007| O sistema deve permitir ao usuário realizar a autenticação e autorização de entrada no sistema através de login e senha| ALTA|
+
