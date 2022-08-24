@@ -22,13 +22,10 @@
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| As permissões de acesso ao sistema podem ser alteradas apenas pelo administrador de sistemas | ALTA |
-|RNF-002| Interface Intuitiva e Reativa | ALTA | 
-|RNF-003| Utilizar o SCRUM como metodologia de desenvolvimento | ALTA | 
-|RNF-004| O sistema deve funcionar em todos os principais navegadores (Chrome, mozila e Edge) |  MÉDIA | 
-|RNF-005| O sistema deve ser responsivo para executar em dispositivos móveis | BAIXA |
-|RNF-006| Deve processar requisições do usuário em no máximo 5s |  BAIXA | 
-|RNF-007| O sistema deve permitir ao usuário realizar a autenticação e autorização de entrada no sistema através de login e senha| ALTA|
-
+- RNF 01- Padrões- Utilizar o SCRUM como metodologia de desenvolvimento
+- RNF 02- Confiabilidade- As permissões de acesso ao sistema podem ser alteradas apenas pelo administrador de sistemas
+- RNF 03- Usabilidade-Interface Intuitiva e Reativa
+- RNF 04- Compatibilidade- O sistema deve funcionar em todos os principais navegadores (Chrome, mozila e Edge)
+- RNF 05- Compatibilidade- O sistema deve ser responsivo para executar em dispositivos móveis
+- RNF 06- Desempenho- Deve processar requisições do usuário em no máximo 5s
+- RNF 07- Segurança- O sistema deve permitir ao usuário realizar a autenticação e autorização de entrada no sistema através de login e senha
