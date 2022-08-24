@@ -29,3 +29,12 @@
 - RNF 05- Compatibilidade- O sistema deve ser responsivo para executar em dispositivos móveis
 - RNF 06- Desempenho- Deve processar requisições do usuário em no máximo 5s
 - RNF 07- Segurança- O sistema deve permitir ao usuário realizar a autenticação e autorização de entrada no sistema através de login e senha
+
+### Restrições Arquiteturais
+
+-
+
+### Mecanismos Arquiteturais
+
+|Análise | Design  | Implementação |
+|-----|-----------------------------------------|----|
