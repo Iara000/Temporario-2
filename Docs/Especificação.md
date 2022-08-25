@@ -32,9 +32,19 @@
 
 ### Restrições Arquiteturais
 
--
+- R1: O front-end deve ser desenvolvido com a linguagem de programação JavaScript e para isso deve ser utilizado a biblioteca React na versão mais recente;
+- R2: Para a padronização da interface deve ser seguido o guia de estilo do framework Bootstrap;
+- R3: O mecanismo de autorização entre as APIs deverá ser feito por meio do JWT;
+- R4: A aplicação deve ser hospedada no serviço de nuvem AWS;
+-  
 
 ### Mecanismos Arquiteturais
 
 |Análise | Design  | Implementação |
-|-----|-----------------------------------------|----|
+|--------|--------------------|----|
+|Front-end |Biblioteca de programação | React|
+|Front-end |Linguagem de programação | JavaScript|
+|Front-end |Framework de folha de estilo | Bootstrap|
+|Deploy |Plataforma de automatização de deploy | AWS|
+|Autenticação |Padrão de formato para autenticação | JWT|
+|Versionamento |Controle e armazanamento de código fonte | Github|
