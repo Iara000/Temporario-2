@@ -48,3 +48,4 @@
 |Deploy |Plataforma de automatização de deploy | AWS|
 |Autenticação |Padrão de formato para autenticação | JWT|
 |Versionamento |Controle e armazanamento de código fonte | Github|
+|Automação | Ferramenta de workflow | Figma, Lucidchart |
