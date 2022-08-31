@@ -51,6 +51,6 @@
 |Autenticação |Padrão de formato para autenticação | JWT|
 |Integração |Protocolo de comunicação | HTTP |
 |Integração |Estilo de arquitetura | REST |
-|Versionamento |Controle e armazanamento de código fonte | Github|
+|Versionamento |Controle e armazenamento de código fonte | Github|
 |Automação | Ferramenta de workflow | Figma, Lucidchart |
 |Build |Ferramenta de build de componentes do software |NPM |
