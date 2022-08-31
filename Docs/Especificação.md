@@ -35,8 +35,7 @@
 - R1: O front-end deve ser desenvolvido com a linguagem de programação JavaScript e para isso deve ser utilizado a biblioteca React na versão mais recente;
 - R2: Para a padronização da interface deve ser seguido o guia de estilo do framework Bootstrap;
 - R3: O mecanismo de autorização entre as APIs deverá ser feito por meio do JWT;
-- R4: A aplicação deve ser hospedada no serviço de nuvem AWS;
--  
+- R4: A aplicação deve ser hospedada no serviço de nuvem AWS;  
 
 ### Mecanismos Arquiteturais
 
@@ -46,6 +45,12 @@
 |Front-end |Linguagem de programação | JavaScript|
 |Front-end |Framework de folha de estilo | Bootstrap|
 |Deploy |Plataforma de automatização de deploy | AWS|
+|Back-end |Linguagem de programação | C# |
+|Back-end |Framework | Node.js |
+|Back-end |Gerenciador de tráfego |Amazon API Gateway |
 |Autenticação |Padrão de formato para autenticação | JWT|
+|Integração |Protocolo de comunicação | HTTP |
+|Integração |Estilo de arquitetura | REST |
 |Versionamento |Controle e armazanamento de código fonte | Github|
 |Automação | Ferramenta de workflow | Figma, Lucidchart |
+|Build |Ferramenta de build de componentes do software |NPM |
