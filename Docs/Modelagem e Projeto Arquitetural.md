@@ -1,12 +1,15 @@
 ### Diagrama de contexto
 
-![Eletricharge-de contexto](https://user-images.githubusercontent.com/81269914/191636170-def6ddd1-030b-41ac-b97c-64cb47a0f2c8.jpg)
-
-
+![Eletricharge-de contexto drawio](https://user-images.githubusercontent.com/81269914/191841098-8d33c7cf-b26a-406d-8c80-917591660b5c.png)
 
 ### Diagrama de container
 
+![Eletricharge-de container drawio](https://user-images.githubusercontent.com/81269914/191841272-cf160653-59f6-4064-a999-ff36e9992dfb.png)
+
+
 ### Diagrama de componentes
+![Eletricharge-de componente drawio](https://user-images.githubusercontent.com/81269914/191841322-920c1ba0-1ed6-498c-bda5-4c47842495e6.png)
+
 
 ### Plano de testes
 
