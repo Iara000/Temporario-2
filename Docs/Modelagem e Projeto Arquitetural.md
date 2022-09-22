@@ -1,5 +1,9 @@
 ### Diagrama de contexto
 
+![Eletricharge-de contexto](https://user-images.githubusercontent.com/81269914/191636170-def6ddd1-030b-41ac-b97c-64cb47a0f2c8.jpg)
+
+
+
 ### Diagrama de contêiner
 
 ### Diagrama de componentes
