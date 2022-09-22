@@ -4,7 +4,7 @@
 
 
 
-### Diagrama de contêiner
+### Diagrama de container
 
 ### Diagrama de componentes
 
