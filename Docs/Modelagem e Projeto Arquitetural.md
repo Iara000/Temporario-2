@@ -63,6 +63,20 @@
   <td></td>
  </tr>
  <tr>
+  <td>RF-003</td>
+  <td>Funcionalidade</td>
+  <td>Verificar se o usuário consegue encontrar a localização de eletropostos </td>
+  <td>
+   <ul>
+       <li>Entrar na aplicação</li>
+       <li>Ir na opção de busca de eletropostos</li>
+       <li>Procura um eletroposto</li>
+    </ul>
+  </td>
+  <td>O usuário deverá conseguir achar a localização de eletropostos</td>
+  <td></td>
+ </tr>
+ <tr>
   <td>RNF-04</td>
   <td>Compatibilidade</td>
   <td>Verificar compatibilidade da aplicação com diferentes navegadores</td>
