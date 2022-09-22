@@ -9,7 +9,7 @@
 |RF-005| Permitir que o usuário escolha o modelo do veículo (elétricos e a combustão) entre as opções cadastradas | MEDIA | M |
 |RF-006??| Permitir que o administrador realize o cadastro de usuários | MEDIA | M |
 |RF-007| Criar 3 tipos de calculadora para escolha do usuario | MÉDIA | B |
-|RF-008| Permitir que o administrador/usuários realize o cadastro de veículos (elétricos e a combustão) | BAIXA | M |
+|RF-008| Permitir que o administrador realize o cadastro de veículos (elétricos e a combustão) | BAIXA | M |
 |RF-009| Permitir recuperação de login| BAIXA | M |
 |RF-010| Restrição de extensão do arquivo do upload de imagens| BAIXA | M|
 |RF-011| Restrição de tamanho de arquivo do upload de imagens | BAIXA | M |
