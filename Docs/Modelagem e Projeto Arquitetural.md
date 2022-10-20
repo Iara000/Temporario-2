@@ -25,6 +25,54 @@
  <tr>
   <td>RF-001</td>
   <td>Funcional</td>
+  <td>Verificar lista de usuários/adms</td>
+  <td>
+   <ul>
+    <li>Fazer requisição na rota GET /api/usuarios</li>
+   </ul>
+  </td>
+  <td>O usuário/adm deve ser listado no sistema</td>
+  <td>Sucesso</td>
+ </tr>
+ <tr>
+  <td>RF-002</td>
+  <td>Funcional</td>
+  <td>Verificar criação de usuários/adms</td>
+  <td>
+   <ul>
+    <li>Fazer requisição na rota POST /api/usuarios</li>
+   </ul>
+  </td>
+  <td>O usuário/adm deve ser criado no sistema</td>
+  <td>Sucesso</td>
+ </tr>
+ <tr>
+  <tr>
+  <td>RF-003</td>
+  <td>Funcional</td>
+  <td>Verificar atualização de usuários/adms</td>
+  <td>
+   <ul>
+    <li>Fazer requisição na rota PUT /api/usuarios/{:id}</li>
+   </ul>
+  </td>
+  <td>O usuário/adm deve ser atualizado no sistema</td>
+  <td>Sucesso</td>
+ </tr>
+ <tr>
+  <td>RF-004</td>
+  <td>Funcional</td>
+  <td>Verificar deleção de usuários/adms</td>
+  <td>
+   <ul>
+    <li>Fazer requisição na rota DELETE /api/usuarios/{:id}</li>
+   </ul>
+  </td>
+  <td>O usuário/adm deve ser deletado no sistema</td>
+  <td>Sucesso</td>
+ </tr>
+  <td>RF-005</td>
+  <td>Funcional</td>
   <td>Verificar se os usuários/adms podem entrar em suas contas, já criadas, sem problemas </td>
   <td>
    <ul>
@@ -36,7 +84,7 @@
   <td></td>
  </tr>
  <tr>
-  <td>RF-002</td>
+  <td>RF-006</td>
   <td>Funcional</td>
   <td>Verificar se os usuários/adms podem sair de suas contas, já criadas, sem problemas </td>
   <td>
@@ -50,7 +98,7 @@
   <td></td>
  </tr>
  <tr>
-  <td>RF-008</td>
+  <td>RF-007</td>
   <td>Segurança</td>
   <td>Verificar se o usuário(não adm) consegue realizar o cadastro de veículos </td>
   <td>
@@ -63,7 +111,7 @@
   <td></td>
  </tr>
  <tr>
-  <td>RF-003</td>
+  <td>RF-008</td>
   <td>Funcionalidade</td>
   <td>Verificar se o usuário consegue encontrar a localização de eletropostos </td>
   <td>
@@ -77,7 +125,7 @@
   <td></td>
  </tr>
  <tr>
-  <td>RNF-04</td>
+  <td>RNF-09</td>
   <td>Compatibilidade</td>
   <td>Verificar compatibilidade da aplicação com diferentes navegadores</td>
   <td>
@@ -89,7 +137,7 @@
   <td></td>
  </tr>
  <tr>
-  <td>RNF-07</td>
+  <td>RNF-10</td>
   <td>Segurança</td>
   <td>Verificar se as credenciais do adm estão corretamente aplicadas  </td>
   <td>
