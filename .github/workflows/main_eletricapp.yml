@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'eletricapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C9DD7AC1B2A4CEDB01F4B575A0F31A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06C86632872B4170A10110E2BE3BF903 }}
           package: .
