@@ -106,10 +106,10 @@
 |Front-end |Biblioteca de programação | React|
 |Front-end |Linguagem de programação | JavaScript|
 |Front-end |Framework de folha de estilo | Bootstrap|
-|Deploy |Plataforma de automatização de deploy | AWS|
+|Deploy |Plataforma de automatização de deploy | Azure|
 |Back-end |Linguagem de programação | C# |
 |Back-end |Framework | Node.js |
-|Back-end |Gerenciador de tráfego |Amazon API Gateway |
+|Back-end |Gerenciador de tráfego |Azure API Gateway |
 |Autenticação |Padrão de formato para autenticação | JWT|
 |Integração |Protocolo de comunicação | HTTP |
 |Integração |Estilo de arquitetura | REST |
