@@ -97,7 +97,7 @@
 - R1: O front-end deve ser desenvolvido com a linguagem de programação JavaScript e para isso deve ser utilizado a biblioteca React na versão mais recente;
 - R2: Para a padronização da interface deve ser seguido o guia de estilo do framework Bootstrap;
 - R3: O mecanismo de autorização entre as APIs deverá ser feito por meio do JWT;
-- R4: A aplicação deve ser hospedada no serviço de nuvem AWS;  
+- R4: A aplicação deve ser hospedada no serviço de nuvem Azure;  
 
 ### Mecanismos Arquiteturais
 
