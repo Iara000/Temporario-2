@@ -1,5 +1,3 @@
-# Apresentação
-
 ## Título do Projeto
 
 Eletricharge
